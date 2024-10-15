@@ -1,0 +1,8 @@
+a quick brown fox jumps over the lazy dog.
+asdfjkl;
+we are learning git in this class.
+we all are confused about git.
+we are still confused aboutgit.
+conflicts not created.
+we are creating conflicts.
+this is available globlly
